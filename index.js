@@ -1,6 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const { response } = require("express");
+// const bcrypt = require("bcrypt");
+const jwt = require("jsonwebtoken");
 const app = express();
 const port = 3000;
 const db = require("./queries");
