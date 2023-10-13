@@ -1,0 +1,6 @@
+reg number, issue
+DS17HNX,Scheduled to be hubbed, but was much more efficient to deliver to end dest, (Could have been two extra deliveries but one was aborted)
+WA19TNV,Should have been collected from B47XG and not the home address that was supplied
+AV69FZE,Called back to advise collection was cancelled, He has told Laura that the new car has not arrived yet so cannot have this one collected yet
+DV70VXP,01442 222222 is incorrect number
+DX20LTT, Shelforce is not the company.  It should be Zeus Juice
